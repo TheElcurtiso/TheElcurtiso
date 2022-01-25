@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheElcurtiso
 - 👀 I’m interested in many things. I have been programming Python and C# for the longest. I have made a website (albeit its not my own) which was of couse was programmed in HTML, CSS, Javascript and Python for the backend. 
 - 🌱 I’m currently am taking up many other swords namely Java and C++. I might dip my toes into something like HTML every once and a while but I much prefer backend things.
-- 📫 How to reach me: curtismay2404@gmail.com
+- 📫 How to reach me: curtismay2404@gmail.com - thats my email but there's no way you are looking at something on Github and not knowing what an email is.
 
 <!---
 TheElcurtiso/TheElcurtiso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
