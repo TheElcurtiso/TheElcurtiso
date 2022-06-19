@@ -3,9 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<p align="center">
-  <img src = "https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Always+trying+to+learn+new+things!;I+love+to+mostly+program+in%3A;  Java%2C+Python+and+C%23!;Hobbyist+Unity+Developer"></img>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Always+trying+to+learn+new+things!;I+love+to+mostly+program+in%3A;Java%2C+python+and+C%23!;Hobbyist+Unity+Developer)](https://git.io/typing-svg)
 
 - 👋 Hi, I’m @TheElcurtiso. I can do full-stack development things.
 - 👀 I’m interested in many things. I have been programming Python and C# for the longest. I have made a website which was of course was programmed in HTML, CSS, Javascript and Python for the backend but I have been told by many to just use NodeJS next time so maybe I will. 
@@ -13,9 +11,7 @@
 - 📫 How to reach me: curtismay2404@gmail.com - thats my email but there's no way you are looking at something on Github and not knowing what an email is.
 
 
-<p align="center">
-  <img src = "http://github-readme-streak-stats.herokuapp.com?user=TheElcurtiso"></img>
-</p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheElcurtiso&theme=dark)](https://git.io/streak-stats)
 
 ### Programming and markup Languages that I know
 
