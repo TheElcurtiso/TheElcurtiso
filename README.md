@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Always+trying+to+learn+new+things!;I+love+to+mostly+program+in%3A;  Java%2C+Python+and+C%23!;Hobbyist+Unity+Developer)](https://git.io/typing-svg)
+  <img src = "https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Always+trying+to+learn+new+things!;I+love+to+mostly+program+in%3A;  Java%2C+Python+and+C%23!;Hobbyist+Unity+Developer"</img>
 </p>
 
 - 👋 Hi, I’m @TheElcurtiso. I can do full-stack development things.
@@ -14,7 +14,7 @@
 
 
 <p align="center">
-    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheElcurtiso)](https://git.io/streak-stats)
+  <img src = "http://github-readme-streak-stats.herokuapp.com?user=TheElcurtiso"</img>
 </p>
 
 ### Programming and markup Languages that I know
