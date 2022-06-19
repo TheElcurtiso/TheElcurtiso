@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Always+trying+to+learn+new+things!;I+love+to+mostly+program+in%3A;Java%2C+python+and+C%23!;Hobbyist+Unity+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Always+trying+to+learn+new+things!;I+love+to+mostly+program+in%3A;Java%2C+Python+and+C%23!;Hobbyist+Unity+Developer)](https://git.io/typing-svg)
 
 - 👋 Hi, I’m @TheElcurtiso. I can do full-stack development things.
 - 👀 I’m interested in many things. I have been programming Python and C# for the longest. I have made a website which was of course was programmed in HTML, CSS, Javascript and Python for the backend but I have been told by many to just use NodeJS next time so maybe I will. 
@@ -25,6 +25,11 @@
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ascratch"><img alt="Scratch" src="https://img.shields.io/badge/Scratch-4D97FF.svg?logo=scratch&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 </p>
+
+### Programming and markup Languages that I "know"
+
+<a href="#"><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></a>
+<a href="#"><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
 
 ### Frameworks and libraries
 
