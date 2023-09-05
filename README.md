@@ -6,9 +6,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Always+trying+to+learn+new+things!;I+love+to+program+in%3A;Java%2C+Python+and+C%23!;I+make+websites+sometimes!;Hobbyist+Unity+Developer)](https://git.io/typing-svg)
 
 - 👋 Hi, I’m @TheElcurtiso.
-- 👀 I’m interested in many things. I have been programming Python and C# for the longest. I have made a website in the past (not mine) which was of course was programmed in HTML, CSS, Javascript and Python for the backend but I have been told by many to just use NodeJS next time so maybe I will. 
-- 🌱 I’m currently am taking up many other swords namely Java and C++. I dip my toes into something like HTML every once and a while but I much prefer backend things.
+- 👀 I’m interested in many things. I have been programming Java, Python and C# for the longest though.
+- 🌱 I’m currently am taking up many other swords namely C++. I dip my toes into something like HTML every once and a while but I much prefer backend things.
 - 📫 How to reach me: curtismay2404@gmail.com - thats my email but there's no way you are looking at something on Github and not knowing what an email is.
+- If you want to see what I've been working on check out my website: https://elcurtiso.com
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheElcurtiso&theme=dark)](https://git.io/streak-stats)
